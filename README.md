@@ -1,11 +1,9 @@
 #  Chat with PDF — Question Answering Application
 
 This project is an interactive **AI-powered application that allows users to chat with PDF documents**.  
-Users upload a PDF file and ask questions in natural language, and the system returns answers  
-**based only on the content of the uploaded PDF**.
+Users upload a PDF file and ask questions in natural language, and the system returns answers  **based only on the content of the uploaded PDF**.
 
-The application uses **semantic search (FAISS + sentence embeddings)** combined with a  
-**text generation model** to produce accurate, document-grounded answers.
+The application uses **semantic search (FAISS + sentence embeddings)** combined with a  **text generation model** to produce accurate, document-grounded answers.
 
  **Live demo (Hugging Face Spaces):**  
 https://salmaoumarir-chat-with-pdf.hf.space
@@ -113,5 +111,4 @@ docker run -p 7860:7860 chat-with-pdf
 
 ##  Final Verdict
 
-This project demonstrates a complete **Document Question Answering pipeline**, from PDF ingestion  
-to semantic retrieval and answer generation, wrapped in a user-friendly web application.  
+This project demonstrates a complete **Document Question Answering pipeline**, from PDF ingestion to semantic retrieval and answer generation, wrapped in a user-friendly web application.  
