@@ -115,4 +115,3 @@ docker run -p 7860:7860 chat-with-pdf
 
 This project demonstrates a complete **Document Question Answering pipeline**, from PDF ingestion  
 to semantic retrieval and answer generation, wrapped in a user-friendly web application.  
-It is suitable for **GitHub portfolios, internships, and applied AI demonstrations**.
